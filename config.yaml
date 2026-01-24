@@ -1,0 +1,6 @@
+packages:
+  pacman:
+    - hyprland
+    - pipewire
+  aur:
+    - zen-browser-bin
