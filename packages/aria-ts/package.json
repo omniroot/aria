@@ -1,0 +1,7 @@
+{
+	"name": "@pure-beach/aria",
+	"version": "1.0.0",
+	"publishConfig": {
+		"access": "public"
+	}
+}
