@@ -1,0 +1,7 @@
+{
+	"name": "aria-monorepo",
+	"workspace": ["./packages/aria-ts"],
+	"tasks": {
+		"dev": "deno run --watch main.ts"
+	}
+}

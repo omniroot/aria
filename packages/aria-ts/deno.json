@@ -2,5 +2,5 @@
 	"name": "@pure-beach/aria",
 	"version": "0.1.0",
 	"license": "MIT",
-	"exports": "./main.ts"
+	"exports": "./mod.ts"
 }
